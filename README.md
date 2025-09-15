@@ -23,6 +23,7 @@ A comprehensive digital safety platform designed specifically for women to prote
 ### Prerequisites
 - Node.js 18+ 
 - npm or yarn
+- download the node_modules from google drive as it's too big
 
 ### Installation
 
