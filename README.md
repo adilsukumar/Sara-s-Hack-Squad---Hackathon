@@ -30,8 +30,8 @@ A comprehensive digital safety platform designed specifically for women to prote
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd SentinelShield
+git clone <https://github.com/adilsukumar/Sara-s-Hack-Squad---Hackathon/tree/main>
+cd Sara-s-Hack-Squad---Hackathon
 
 # Install dependencies
 npm install
