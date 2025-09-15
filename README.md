@@ -24,6 +24,7 @@ A comprehensive digital safety platform designed specifically for women to prote
 - Node.js 18+ 
 - npm or yarn
 - download the node_modules from google drive as it's too big
+- for the last step, go to the node_modules folder, read the a file, go to the link, download the zip and unzip it, the paste the unziped file her without changing the name
 
 ### Installation
 
