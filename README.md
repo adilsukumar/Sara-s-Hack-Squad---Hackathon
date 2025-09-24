@@ -178,5 +178,7 @@ For support and questions:
 - Use the in-app emergency features for crisis situations
 
 ---
+For a Recorded Demo of the app and how it works, Check this out!
+https://drive.google.com/file/d/1iB5T-hQEarXow8CdPLrx2OgSB7jGqniV/view?usp=sharing
 
 **⚠️ Important**: This platform is designed to assist with digital safety but should not replace professional help or emergency services. In case of immediate danger, always contact local emergency services first.
