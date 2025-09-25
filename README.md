@@ -1,4 +1,4 @@
-# CyberSHE - Digital Safety Platform
+# CyberSHE - Digital Safety Platform Specifically For Women
 
 A comprehensive digital safety platform designed specifically for women to protect against online harassment, stalking, and privacy violations.
 
